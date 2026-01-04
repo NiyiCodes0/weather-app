@@ -23,7 +23,7 @@ A modern, fully functional weather application built with React that provides cu
 
 ## 🚀 Live Demo
 
-[View Live Demo](YOUR_VERCEL_URL_HERE)
+[View Live Demo](https://weather-app-fawn-sigma-39.vercel.app/)
 
 ## 📸 Screenshots
 
